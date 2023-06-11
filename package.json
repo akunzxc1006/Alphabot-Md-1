@@ -1,9 +1,9 @@
 {
-  "name": "Alphabot-Md",
+  "name": "a",
   "version": "17.0.9",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "a",
   "main": "zeeone.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "node zeeone.js"
    },
@@ -14,13 +14,12 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
-  "license": "MIT",
+  "author": "a",
+  "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^9.1.3",
     "@vitalets/google-translate-api": "^9.1.0",
     "awesome-phonenumber": "^2.64.0",

@@ -710,7 +710,7 @@ if(!isCreator && !m.isGroup && groupOnly){
       }
 
       // Public & Self
-      if (!alpha.public) {
+      if (!alpha.self) {
          if (!m.key.fromMe && !isCreator) return
       }
 
